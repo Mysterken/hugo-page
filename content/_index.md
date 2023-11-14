@@ -19,7 +19,7 @@ It use the theme [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
 ## I am a professional coder
 
-{{< highlight go >}} sudo rm -r * {{< /highlight >}}
+{{< highlight go >}} sudo rm -rf / {{< /highlight >}}
 {{< gist getify 2b53198906d320abe650 >}}
 
 
