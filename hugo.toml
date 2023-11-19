@@ -2,3 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'hugo-page'
 theme = 'ananke'
+[params]
+    site_logo = "images/logo.svg"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/Mysterken/hugo-page"
